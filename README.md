@@ -5,7 +5,7 @@
 ##About
 ==========
 
-Display all supported font on iOS.
+Display all supported fonts on iOS.
 
 ##Note
 ==========
