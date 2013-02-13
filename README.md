@@ -1,9 +1,13 @@
 #iosFont
 ===============
+![iPhone portrait](https://raw.github.com/cool8jay/iosFont/master/iosfont.png)
+
+##About
+==========
 
 Display all supported font on iOS.
 
-##Notes
+##Note
 ==========
 Fonts are different based on different versions of iOS SDK. You can change project build settings to see the difference.
 
